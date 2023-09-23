@@ -1,0 +1,38 @@
+.home{
+    width: 100vw;
+    height: 100vh;
+    background-repeat: none;
+    background-size:cover;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    background-image: url(https://images.unsplash.com/photo-1516979187457-637abb4f9353?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGV4YW18ZW58MHx8MHx8fDA%3D&w=1000&q=80);
+}
+
+.home button{
+    width: 200px;
+    margin-left: 500px;
+    margin-top: 20px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+    
+    color: brown;
+    box-shadow: 5px 5px 5px black;
+}
+
+.home h1{
+    margin-left: 20px;
+    color: seagreen;
+    font-size:5vmax;
+    width: 60%;
+    text-align: center;
+}
+
+.home a{
+    text-decoration: none;
+    color: black;
+}
+
+

@@ -1,0 +1,7 @@
+.sectionCreateForm {
+    display: flex;
+    flex-direction: column;
+  }
+  .section_input {
+    width: 60px;
+  }
